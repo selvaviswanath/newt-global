@@ -63,3 +63,7 @@ ALTER COLUMN docs TYPE jsonb;
 SELECT did, docs @> '3' FROM json_table;
 SELECT did, docs FROM json_table
 WHERE docs @> '3';
+
+
+-- use GIN indexing for faster retrieval 
+CREATE INDEX ON json_table USING GIN (docs jsonb_path_ops);
