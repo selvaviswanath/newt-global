@@ -20,7 +20,7 @@ import jakarta.servlet.http.HttpServletResponse;
 @WebServlet("/dbc")
 public class dbc extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-	@Resource(name = "jdbc/project")
+	@Resource(name = "jdbc/hiber")
 	private DataSource dataSource;
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
