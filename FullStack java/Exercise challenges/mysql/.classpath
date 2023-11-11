@@ -13,6 +13,42 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="D:/Tomcat/lib/mysql-connector-j-8.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/Downloads/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/Downloads/commons-fileupload-1.5.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/Downloads/commons-io-2.15.0.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/annotations-api.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/catalina.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/catalina-ssi.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/ecj-4.27.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/el-api.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/jakartaee-migration-1.0.7-shaded.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/jasper.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/jasper-el.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/jsp-api.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/tomcat-i18n-cs.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/tomcat-i18n-de.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/tomcat-i18n-ko.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/tomcat-i18n-pt-BR.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/tomcat-i18n-ru.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/tomcat-i18n-zh-CN.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/websocket-api.jar"/>
+	<classpathentry kind="lib" path="/home/iyviish/eclipse-workspace/websocket-client-api.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
