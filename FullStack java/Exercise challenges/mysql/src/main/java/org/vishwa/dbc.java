@@ -58,15 +58,13 @@ public class dbc extends HttpServlet {
 	}
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
-		Part filePart = request.getPart("file");
-	    String fileName = filePart.getSubmittedFileName();
-	    for (Part part : request.getParts()) {
-	      part.write("~/Desktop" + fileName.substring(fileName.lastIndexOf("/")+1));
+		List<Part> fileParts = (List<Part>)request.getParts();
+	    for (Part part : fileParts) {
+		    String fileName = part.getSubmittedFileName();
+	      part.write(fileName);
 	    }
 	    response.getWriter().print("The file uploaded sucessfully.");
-
 	}
-
 }
 
 
