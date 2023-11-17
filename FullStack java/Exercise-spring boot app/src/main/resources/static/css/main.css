@@ -1,0 +1,85 @@
+/* Reset some default styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #2b2b2b; /* Dark background color */
+    color: #010101; /* Light text color */
+}
+
+/* Container styles */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header styles */
+h1 {
+    color: #00FF00; /* Bright green */
+    font-size: 36px;
+    text-align: center;
+}
+
+/* Subheading styles */
+h2 {
+    color: #FFA500; /* Orange */
+    font-size: 24px;
+    text-align: center;
+}
+
+/* Main content styles */
+.main-content {
+    margin-top: 20px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Validation message styles */
+.validation-message {
+    font-style: italic;
+    font-size: 14px;
+    color: #FF6347; /* Tomato */
+}
+
+/* Link styles */
+a {
+    color: #87CEEB; /* Sky Blue */
+    transition: color 0.3s ease-in-out;
+}
+
+a:hover, a:focus, a:active {
+    color: #FFD700; /* Gold */
+    text-decoration: underline;
+}
+
+/* Pagination styles */
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+.pagination li {
+    margin: 0 5px;
+    font-size: 18px;
+}
+
+.pagination a {
+    color: #ccc;
+    text-decoration: none;
+}
+
+.pagination a:hover {
+    color: #FF6347; /* Tomato */
+}
