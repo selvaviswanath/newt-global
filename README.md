@@ -1,6 +1,9 @@
 # newt-global
 Course Exercises and Certificates
 
+##### Up until now 5 out of 9 courses are completed and the assignments have been pushed too.
+
+
 ### The Certificates are inserted in "certificates folder"
 ***
  1.
