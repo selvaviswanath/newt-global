@@ -25,3 +25,7 @@ Course Exercises and Certificates
  5. 
 ---
  ![image](https://github.com/selvaviswanath/newt-global/assets/89679557/c3e78770-e653-4a75-b411-b041e454c17b)
+---
+ 6.
+---
+![image](https://github.com/selvaviswanath/newt-global/assets/89679557/0befb12f-d4d3-4caa-8603-305e56945103)
