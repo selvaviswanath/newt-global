@@ -2,7 +2,17 @@
 Course Exercises and Certificates
 
 # 9 out of 9 courses are completed and the assignments have been pushed too.
-
+Topics covered:
+ - Spring
+ - Hibernate
+ - JPA
+ - PostgreSQL
+ - Oracle SQL and Apex
+ - Oracle PL/SQL
+ - MySQL
+ - Big data with PySpark
+ - Spark MLlib
+ - PySimpleGUI
 
 ### The Certificates are inserted in "certificates folder"
 ***
