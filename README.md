@@ -1,5 +1,6 @@
 # newt-global
 
+jdk: 11
 ### The Certificates are inserted in "certificates folder"
 ***
  1.
